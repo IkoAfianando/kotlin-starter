@@ -5,21 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/App.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Char.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/String.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Function.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +50,7 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.StringKt">
+  <component name="RunManager" selected="Kotlin.FunctionKt">
     <configuration name="AppKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="AppKt" />
       <module name="kotlin-starter.main" />
@@ -78,6 +65,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
+      <module name="kotlin-starter.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="StringKt" />
       <module name="kotlin-starter.main" />
@@ -87,6 +81,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.FunctionKt" />
         <item itemvalue="Kotlin.StringKt" />
         <item itemvalue="Kotlin.CharKt" />
         <item itemvalue="Kotlin.AppKt" />
@@ -101,7 +96,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1653874858692</updated>
-      <workItem from="1653874860231" duration="2927000" />
+      <workItem from="1653874860231" duration="3540000" />
     </task>
     <servers />
   </component>
