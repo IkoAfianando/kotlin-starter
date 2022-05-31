@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="Update -&gt; Numbers.kt">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
+    <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="Update-&gt; Arrays.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Nullable.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -52,7 +52,7 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.ArraysKt">
+  <component name="RunManager" selected="Kotlin.NullableKt">
     <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysKt" />
       <module name="kotlin-starter.main" />
@@ -67,15 +67,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FunctionKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionKt" />
+    <configuration name="IfExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfExpressionsKt" />
       <module name="kotlin-starter.main" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="IfExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfExpressionsKt" />
+    <configuration name="NullableKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="NullableKt" />
       <module name="kotlin-starter.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +90,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.NullableKt" />
         <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.NumbersKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.IfExpressionsKt" />
-        <item itemvalue="Kotlin.FunctionKt" />
       </list>
     </recent_temporary>
   </component>
@@ -109,7 +109,7 @@
       <workItem from="1653874860231" duration="6120000" />
       <workItem from="1653920421268" duration="1304000" />
       <workItem from="1653961863770" duration="1459000" />
-      <workItem from="1653963876210" duration="2393000" />
+      <workItem from="1653963876210" duration="2707000" />
     </task>
     <task id="LOCAL-00001" summary="Update -&gt; IfExpression.kt">
       <created>1653880323200</created>
@@ -132,7 +132,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653964582960</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Update-&gt; Arrays.kt">
+      <created>1653966279494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1653966279494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -153,7 +160,8 @@
     <MESSAGE value="Update -&gt; IfExpression.kt" />
     <MESSAGE value="Update -&gt; Boolean.kt" />
     <MESSAGE value="Update -&gt; Numbers.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update -&gt; Numbers.kt" />
+    <MESSAGE value="Update-&gt; Arrays.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update-&gt; Arrays.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
