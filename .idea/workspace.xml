@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="Update -&gt; Boolean.kt">
-      <change afterPath="$PROJECT_DIR$/.idea/discord.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Numbers.kt" afterDir="false" />
+    <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="Update -&gt; Numbers.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Arrays.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +52,14 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.NumbersKt">
+  <component name="RunManager" selected="Kotlin.ArraysKt">
+    <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysKt" />
+      <module name="kotlin-starter.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="BooleanKt" />
       <module name="kotlin-starter.main" />
@@ -82,20 +88,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="StringKt" />
-      <module name="kotlin-starter.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.NumbersKt" />
         <item itemvalue="Kotlin.BooleanKt" />
         <item itemvalue="Kotlin.IfExpressionsKt" />
         <item itemvalue="Kotlin.FunctionKt" />
-        <item itemvalue="Kotlin.StringKt" />
       </list>
     </recent_temporary>
   </component>
@@ -110,7 +109,7 @@
       <workItem from="1653874860231" duration="6120000" />
       <workItem from="1653920421268" duration="1304000" />
       <workItem from="1653961863770" duration="1459000" />
-      <workItem from="1653963876210" duration="668000" />
+      <workItem from="1653963876210" duration="2393000" />
     </task>
     <task id="LOCAL-00001" summary="Update -&gt; IfExpression.kt">
       <created>1653880323200</created>
@@ -126,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653962656438</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Update -&gt; Numbers.kt">
+      <created>1653964582960</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1653964582960</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,7 +152,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Update -&gt; IfExpression.kt" />
     <MESSAGE value="Update -&gt; Boolean.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update -&gt; Boolean.kt" />
+    <MESSAGE value="Update -&gt; Numbers.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update -&gt; Numbers.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
