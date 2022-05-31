@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="Update-&gt; Arrays.kt" />
+    <list default="true" id="568ffe27-1d1b-4fe9-8dea-120d0f261268" name="Changes" comment="Update-&gt; SafeElvisOperator.kt">
+      <change afterPath="$PROJECT_DIR$/src/main/controlFlow/Enumration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/controlFlow/Enumuration.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/StringTemplate.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,9 +23,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Kotlin Script" />
         <option value="Kotlin Class" />
         <option value="Kotlin File" />
+        <option value="Kotlin Script" />
       </list>
     </option>
   </component>
@@ -42,6 +47,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
+    "jdk.selected.JAVA_MODULE": "18",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -49,23 +55,9 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
-  <component name="RunManager" selected="Kotlin.NullableKt">
+  <component name="RunManager" selected="Kotlin script.Enumuration.kts">
     <configuration name="ArraysKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysKt" />
-      <module name="kotlin-starter.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BooleanKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="BooleanKt" />
-      <module name="kotlin-starter.main" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IfExpressionsKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="IfExpressionsKt" />
       <module name="kotlin-starter.main" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,13 +77,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringTemplateKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="StringTemplateKt" />
+      <module name="kotlin-starter.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Enumuration.kts" type="KotlinStandaloneScriptRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <module name="kotlin-starter" />
+      <option name="filePath" value="$PROJECT_DIR$/src/main/controlFlow/Enumuration.kts" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin script.Enumuration.kts" />
+        <item itemvalue="Kotlin.StringTemplateKt" />
         <item itemvalue="Kotlin.NullableKt" />
         <item itemvalue="Kotlin.ArraysKt" />
         <item itemvalue="Kotlin.NumbersKt" />
-        <item itemvalue="Kotlin.BooleanKt" />
-        <item itemvalue="Kotlin.IfExpressionsKt" />
       </list>
     </recent_temporary>
   </component>
@@ -106,7 +112,7 @@
       <workItem from="1653874860231" duration="6120000" />
       <workItem from="1653920421268" duration="1304000" />
       <workItem from="1653961863770" duration="1459000" />
-      <workItem from="1653963876210" duration="3023000" />
+      <workItem from="1653963876210" duration="5082000" />
     </task>
     <task id="LOCAL-00001" summary="Update -&gt; IfExpression.kt">
       <created>1653880323200</created>
@@ -143,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1653966876723</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Update-&gt; SafeElvisOperator.kt">
+      <created>1653967163217</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1653967163217</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,7 +178,8 @@
     <MESSAGE value="Update -&gt; Boolean.kt" />
     <MESSAGE value="Update -&gt; Numbers.kt" />
     <MESSAGE value="Update-&gt; Arrays.kt" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update-&gt; Arrays.kt" />
+    <MESSAGE value="Update-&gt; SafeElvisOperator.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update-&gt; SafeElvisOperator.kt" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
